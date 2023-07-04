@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '闺蜜共读',
+  title: '闺蜜共读书房',
   tagline: '书中自有颜如玉',
   favicon: 'img/favicon.ico',
 
