@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconfidantesbook=self.webpackChunkconfidantesbook||[]).push([[2320],{3052:o=>{o.exports=JSON.parse('{"label":"docusaurus","permalink":"/confidantesbook/blog/tags/docusaurus","allTagsPath":"/confidantesbook/blog/tags","count":4}')}}]);

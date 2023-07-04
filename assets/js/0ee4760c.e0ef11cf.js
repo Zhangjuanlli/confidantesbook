@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconfidantesbook=self.webpackChunkconfidantesbook||[]).push([[9900],{2760:o=>{o.exports=JSON.parse('{"permalink":"/confidantesbook/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
